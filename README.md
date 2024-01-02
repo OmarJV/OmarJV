@@ -6,6 +6,7 @@
 ## <picture><img src="https://media1.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=ecf05e47l0q899ymrl3oir9e9ipcqzfk5rsu4l1b0ys2zfo6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="70px" align="left" /></picture>  ✍️ **About me**
 
 <br>
+<br>
 
 Developer and Engineer in communications and electronics.
 I enjoy creating movile and web applications.
