@@ -27,7 +27,7 @@ I like working with electronic and software projects.
             </svg>
           ](https://github.com/OmarJV)   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt='linkedin' height='40'>](https://www.linkedin.com/in/omarjv/)  
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a> 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='25'></a> 
 
 
 <!--skills-->
